@@ -1,0 +1,17 @@
+ul attribute:
+	type: (circle, square,disc)
+	For ex: 
+	<ul type = 'circle'>
+  		<li> </li>
+	</ul>
+
+ol attribute:
+	reversed
+	start = "6"
+	type:(a,A,i,I,1)
+	For ex :
+	<ol start = "6" >
+	  <li> </li>
+	  <li> </li>
+	  <li> </li>
+	</ol>
